@@ -31,5 +31,5 @@
     <a href="mailto:felipe83105202@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"></a>
   </p>
   
-  <img src="https://raw.githubusercontent.com/Felipecolare/Felipecolare/output/github-contribution-grid-snake.svg" alt="snake svg" style="max-width: 100%; height: auto;"/>
+  <img src="https://raw.githubusercontent.com/Lucas2907/Lucas2907/output/github-contribution-grid-snake.svg" alt="snake svg" style="max-width: 100%; height: auto;"/>
 </div>
